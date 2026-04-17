@@ -1,5 +1,5 @@
 // ============================================================
-//  QUIZ HELPER — Bookmarklet (sem servidor proxy)
+//  QUIZ HELPER — Bookmarklt (sem servidor proxy)
 //  A API key é armazenada no localStorage do usuário.
 //  Nunca é embutida no código — cada usuário usa a própria key.
 // ============================================================
